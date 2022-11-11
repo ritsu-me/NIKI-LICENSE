@@ -7,7 +7,7 @@
 
 例）
 
-`©2019~2022 RitsuYuzaki. Template Copyrights Reserved.`
+`©2019~2022 RitsuYuzaki. All Rights Reserved.`
 
 `©Ritsu Yuzaki`
 
