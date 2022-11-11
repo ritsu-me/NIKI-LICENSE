@@ -15,7 +15,7 @@
 
 ・法人の利用は個人と同様とします。
 
-宛先>>`mail@ritsu-me.com`
+宛先>>[mail@ritsu-me.com](mailto:mail@ritsu-me.com)
 
 以上の条項を守っていただける場合、改変、二次配布、商用利用が可能です。
 
