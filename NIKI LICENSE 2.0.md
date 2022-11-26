@@ -1,4 +1,4 @@
-# NIKI LICENSE 1.0
+# NIKI LICENSE 2.0
 制約条項
 
 ・ライセンスの変更はできません
